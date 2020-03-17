@@ -13,7 +13,7 @@
 </h2>
 
 <h3 align="center">
-  yarn install
+  yarn install <br/>
   yarn dev
 </h3>
 

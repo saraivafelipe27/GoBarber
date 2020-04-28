@@ -13,8 +13,7 @@
 </h2>
 
 <h3 align="center">
-  yarn install <br/>
-  yarn dev
+  Under Construction
 </h3>
 
 Tecnologias Utilizadas:

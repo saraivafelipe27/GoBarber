@@ -8,10 +8,6 @@
   A barber scheduling app that allows users to schedule an appointment with his favorite barber and shows to the barber his agenda for the day.
 </h4>
 
-<h2 align="center">
-  Instalação:
-</h2>
-
 <h3 align="center">
   Under Construction
 </h3>
